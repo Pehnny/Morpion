@@ -1,0 +1,9 @@
+game\morpion\Board.class
+game\morpion\Marks.class
+game\morpion\PlayableBoard$1.class
+game\morpion\PlayableBoard.class
+game\morpion\Transposable.class
+game\morpion\Morpion.class
+game\morpion\Players.class
+game\morpion\Board$1.class
+game\morpion\Triplets.class
